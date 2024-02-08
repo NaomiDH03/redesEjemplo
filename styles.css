@@ -1,0 +1,67 @@
+.titulo1{
+    color: blue;
+    text-align: center;
+}
+
+.titulo2{
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+ 
+}
+
+.titulo3{
+    color: pink;
+    text-align: center;
+    font-family:  'Times New Roman', Times, serif; 
+  
+}
+
+.titulo4{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+.titulo5{
+    color: lavenderblush;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+
+}
+
+.titulo6{
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.titulo7{
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.titulo8{
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.titulo9{
+    color: silver;
+    font-family: cursive;
+    text-align: center;
+
+}
+
+.titulo10{
+    color: mediumaquamarine;
+    font-family: monospace;
+    text-align: center;
+}
+.texto{
+    color:black;
+    text-align: center;
+}
